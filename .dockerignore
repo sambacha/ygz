@@ -1,0 +1,8 @@
+.git/
+.github/
+*.Dockerfile
+Dockerfile
+docker-bake.hcl
+docker-compose.yml
+*.md
+!*.tgz
